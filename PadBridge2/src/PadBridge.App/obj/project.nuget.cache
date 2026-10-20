@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+x0faYAHtXM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuu\\Downloads\\PadBridge2\\src\\PadBridge.App\\PadBridge.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuu\\.nuget\\packages\\nefarius.vigem.client\\1.21.256\\nefarius.vigem.client.1.21.256.nupkg.sha512"
+  ],
+  "logs": []
+}
